@@ -90,6 +90,5 @@ Para más información, puedes contactarnos en: [tu_email@example.com](mailto:tu
 
 ¡Gracias por visitar **Mi Página de Cocina**! 🍽️
 
-:hello: 
-:food:
+:foot:
 
